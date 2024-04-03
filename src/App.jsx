@@ -1,9 +1,10 @@
+import Header from "./components/Header"
 
 function App() {
 
   return (
     <>
-      <h1>Concat App</h1>
+      <Header />
     </>
   )
 }
